@@ -1,0 +1,3 @@
+[submodule "vrc-oscquery-dynamic-controls"]
+	path = vrc-oscquery-dynamic-controls
+	url = https://github.com/izuna1/vrc-osc-dynamic-controls
